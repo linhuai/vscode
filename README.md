@@ -1,5 +1,7 @@
-# vscode 常用快捷键
-vs code 常用快捷键
+# vscode 
+
+
+## 常用快捷键
 
 ### 多项选择
 
@@ -21,3 +23,12 @@ vs code 常用快捷键
 7. cursorColumnSelectPageDown
 8. ⇧⌥⌘PageUp	列选择向上翻页
 
+## 常用插件
+
+1. Auto Rename Tag 
+
+   自动重命名配对的 HTML / XML 标签
+   
+2. Open-In-Browser
+
+   在浏览器中打开文件
