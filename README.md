@@ -27,6 +27,8 @@ option + command + 上/下 增加选择上一行/下一行
 
 command + D 增加选择下一个目标
 
+option + 方向键（上/下）移动选中的目标
+
 ## 常用插件
 
 1. Auto Rename Tag 
