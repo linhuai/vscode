@@ -23,6 +23,10 @@
 7. cursorColumnSelectPageDown
 8. ⇧⌥⌘PageUp	列选择向上翻页
 
+option + command + 上/下 增加选择上一行/下一行
+
+command + D 增加选择下一个目标
+
 ## 常用插件
 
 1. Auto Rename Tag 
